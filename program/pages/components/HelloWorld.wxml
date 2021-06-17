@@ -1,0 +1,7 @@
+ <template name="html-view-nodes"><view  class="div">
+                        <view  class="h1">
+                        {{ msg }}
+                    </view> 
+                     
+                    </view> 
+                     </template>

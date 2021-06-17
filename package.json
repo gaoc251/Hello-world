@@ -9,6 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "mini-css-extract-plugin": "^1.6.0",
+    "program-loader": "^0.1.1",
+    "progress-bar-webpack-plugin": "^2.1.0",
+    "shelljs": "^0.8.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -16,6 +21,7 @@
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
+    "babel-preset-env": "^1.7.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.11"
