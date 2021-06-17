@@ -1,5 +1,8 @@
 # hello-world
 
+
+vue 组件转小程序
+
 ## Project setup
 ```
 npm install
@@ -22,3 +25,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
